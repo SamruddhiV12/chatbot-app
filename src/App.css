@@ -1,0 +1,20 @@
+.app {
+  display:flex;
+  place-items: center;
+  height: 91.8vh;
+ background-color: #dadbd3;
+ padding: 30px;
+ padding-left: 80px;
+
+}
+
+.app__body {
+
+display: flex;
+background-color: #ededed;
+border-radius:20px;
+margin-top: -20px;
+height: 90vh;
+width: 180vh;
+box-shadow: -1px 4px 20px -6px rgba(0,0,0,0.75);
+}
